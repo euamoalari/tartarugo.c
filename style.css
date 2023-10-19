@@ -1,0 +1,42 @@
+/* Reset padrão de margens e preenchimento */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilização do cabeçalho (header) */
+header {
+    background-color:rgb(31, 1, 1);
+    color: aqua;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Estilização do título */
+h1 {
+    font-size: 24px;
+}
+
+/* Estilização do corpo principal (main) */
+main {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilização das imagens centralizadas */
+.centered-images {
+    display:f;
+    justify-content: center;
+}
+
+.centered-images img {
+    margin: 10px;
+}
+
+/* Estilização do rodapé (footer) */
+footer {
+    background-color:black;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 60px;
+}
